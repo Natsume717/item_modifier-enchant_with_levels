@@ -1,0 +1,1 @@
+give @a iron_pickaxe 3
