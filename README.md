@@ -1,8 +1,7 @@
 # item_modifier-enchant_with_levels
 item_modifierの1項目であるenchant_with_levelsに関するサンプルです。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】enchant_with_levelsでエンチャント！【item_modifier】](https://natsumake.com/item_modifier-enchant_with_levels/)』を参考にしてください。
 
 <h3>概要</h3>
 
